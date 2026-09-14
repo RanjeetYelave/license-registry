@@ -4,10 +4,10 @@
   "customerName": "E2E Test Enterprise",
   "product": "RupeeCRM",
   "edition": "PRO",
-  "plan": "SILVER",
-  "status": "SUSPENDED",
-  "revision": 2,
+  "plan": "GOLD",
+  "status": "ACTIVE",
+  "revision": 3,
   "issuedAt": "2026-09-14T10:38:05.206Z",
-  "expiresAt": "2029-09-13T10:38:05.206Z",
-  "signature": "/ijNGOZB0gCrI3JHlzzgyTmhNzjoWrrazfUSY1QOz8VW1/XO4Q85oJn4PbMyjrBRsuH/U8EYamlRbiJbXUd/Bg=="
+  "expiresAt": null,
+  "signature": "5fyaYQuHSyDnRMn2ZOkV3buhA/u2OSRgal02Hzyv/LMTM2jww1EtaYeIBVQW8HOcRcaXI1mYD9WbqSQ6jtg8DA=="
 }
