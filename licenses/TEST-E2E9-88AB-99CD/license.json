@@ -1,0 +1,13 @@
+{
+  "licenseId": "LIC-TEST-001",
+  "machineId": "TEST-E2E9-88AB-99CD",
+  "customerName": "E2E Test Enterprise",
+  "product": "RupeeCRM",
+  "edition": "PRO",
+  "plan": "SILVER",
+  "status": "ACTIVE",
+  "revision": 1,
+  "issuedAt": "2026-09-14T10:37:51.518Z",
+  "expiresAt": "2029-09-13T10:37:51.533Z",
+  "signature": "M2zaqBUP4eein1Nwu7NmEcDYJ0EWKJfHCvYEGY/gWXFoUPc7Z1TnnE+MaNoiZfI85CmZ+dUPkcmHkEK5l9igCg=="
+}
