@@ -5,9 +5,9 @@
   "product": "RupeeCRM",
   "edition": "PRO",
   "plan": "SILVER",
-  "status": "SUSPENDED",
-  "revision": 2,
-  "issuedAt": "2026-09-14T10:37:51.518Z",
-  "expiresAt": "2029-09-13T10:37:51.533Z",
-  "signature": "P8pNzIv4ZVwTFhvlkkUOuY2UAeBTN5MJxh1/jU6vqiGr2K3UDVkkBdGAGX8IPHIuFQZq+wsLnNfEA7XxLDmiAg=="
+  "status": "ACTIVE",
+  "revision": 1,
+  "issuedAt": "2026-09-14T10:38:05.206Z",
+  "expiresAt": "2029-09-13T10:38:05.206Z",
+  "signature": "qRnWLUCEQQaGAFpaPaf3pcLOTlrQ6VBJruOHjoPG9NaLHFEfMPWbFK9HoScuAUWXsjT3OQ/lBOOK/f516tFqDg=="
 }
