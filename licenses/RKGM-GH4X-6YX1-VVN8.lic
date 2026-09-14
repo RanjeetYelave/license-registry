@@ -5,10 +5,10 @@
   "product": "RupeeCRM",
   "edition": "PRO",
   "plan": "BRONZE",
-  "status": "SUSPENDED",
-  "revision": 2,
+  "status": "ACTIVE",
+  "revision": 3,
   "issuedAt": "2026-09-14T10:50:16.637Z",
   "expiresAt": "2027-09-14T10:50:16.637Z",
-  "statusReason": "Payment issues",
-  "signature": "R9FRDSALysLT/vh0DzjDie53IMx9rhqRDnymZXWnO7QuujGS3WBabcwsh0IliPxr2j79B7ABlcajZhIX+K5UDA=="
+  "statusReason": null,
+  "signature": "WxzWJyxRb0pejc9j1pHTD7FdHMvrRaujbXHMb5gA/bjlymtBRRVfjocXSmUyzfVORAmGVhw38OwoqV5YbKL1CA=="
 }
