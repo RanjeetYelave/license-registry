@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-09-14T10:50:16.637Z",
+  "lastUpdated": "2026-09-14T11:29:39.837Z",
   "salesmen": [
     {
       "id": "SM-01",
@@ -41,6 +41,19 @@
       "plan": "BRONZE",
       "saleAmount": 3000,
       "commissionAmount": 1500,
+      "saleDate": "2026-09-14",
+      "settlementStatus": "PENDING",
+      "settlementId": null
+    },
+    {
+      "saleId": "SALE-97794",
+      "licenseId": "LIC-11962",
+      "machineId": "RKGM-GH4X-6YX1-VVN8",
+      "customerName": "TNBK",
+      "salesmanNickname": "Vijay",
+      "plan": "SILVER",
+      "saleAmount": 7000,
+      "commissionAmount": 1050,
       "saleDate": "2026-09-14",
       "settlementStatus": "PENDING",
       "settlementId": null
