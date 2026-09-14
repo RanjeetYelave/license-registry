@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-09-14T10:49:19.186Z",
+  "salesmen": [
+    {
+      "id": "SM-01",
+      "nickname": "Raju",
+      "phone": "+91 98765 43210",
+      "commissionRatePercent": 20,
+      "active": true
+    },
+    {
+      "id": "SM-02",
+      "nickname": "Amit",
+      "phone": "+91 98123 45678",
+      "commissionRatePercent": 20,
+      "active": true
+    },
+    {
+      "id": "SM-03",
+      "nickname": "Vijay",
+      "phone": "+91 99887 76655",
+      "commissionRatePercent": 15,
+      "active": true
+    },
+    {
+      "id": "SM-6008",
+      "nickname": "Kiram",
+      "phone": "8830546789",
+      "commissionRatePercent": 50,
+      "active": true
+    }
+  ],
+  "sales": [],
+  "settlements": []
+}
