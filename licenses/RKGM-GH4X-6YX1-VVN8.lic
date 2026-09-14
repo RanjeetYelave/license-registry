@@ -1,14 +1,14 @@
 {
   "licenseId": "LIC-11962",
   "machineId": "RKGM-GH4X-6YX1-VVN8",
-  "customerName": "Sangam Hardware",
+  "customerName": "TNBK",
   "product": "RupeeCRM",
   "edition": "PRO",
-  "plan": "BRONZE",
-  "status": "REVOKED",
-  "revision": 4,
-  "issuedAt": "2026-09-14T10:50:16.637Z",
-  "expiresAt": "2027-09-14T10:50:16.637Z",
-  "statusReason": "Admin action",
-  "signature": "cnOgE/NwAUccCv16mTg7gpm2WpKRoIjOrx70+VbsQa5+zr7EZjMw3kVYR7vfyM34DjuNaULQyWWhfW3EuUViDQ=="
+  "plan": "SILVER",
+  "status": "ACTIVE",
+  "revision": 5,
+  "issuedAt": "2026-09-14T11:29:39.837Z",
+  "expiresAt": "2029-09-14T11:29:39.837Z",
+  "statusReason": null,
+  "signature": "LMFzhST9djf3mZRIDzMsZkC+e/4wBjnw2GGmK44duSo+daJkYvFOp/FtZ2ERkR4CzFT4dpB8uYoiLFpUwjHZAg=="
 }
