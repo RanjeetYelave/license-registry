@@ -6,11 +6,11 @@
   "edition": "PRO",
   "plan": "SILVER",
   "status": "ACTIVE",
-  "revision": 12,
+  "revision": 13,
   "issuedAt": "2026-09-14T11:29:39.837Z",
   "expiresAt": "2029-09-14T11:29:39.837Z",
   "statusReason": null,
-  "signature": "x7UdLc3vjNf02kRod1wqL5oqmSLHAxWGYdcSR/oCh/zcIGJcfwzzkKa9+27mb46yUs73A75ngkVxcOVhPO1sBw==",
-  "dataProtectionEnabled": false,
-  "dataProtectionExpiresAt": "2027-03-29T16:20:43.032Z"
+  "signature": "afkRdgBhwRefAApHFM9s3wDVz35FzlYRBMOSCO3m2hA1/X6M8BJIW92xijLYZg25nH3nHzSmmVA3d/V/nBslCg==",
+  "dataProtectionEnabled": true,
+  "dataProtectionExpiresAt": "2027-06-29T16:20:43.032Z"
 }
