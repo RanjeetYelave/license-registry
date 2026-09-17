@@ -1,16 +1,16 @@
 {
   "licenseId": "LIC-78616",
   "machineId": "RKGM-GH4X-6YX1-VVN8",
-  "customerName": "TEST - MACHINE 01",
+  "customerName": "TNBK",
   "product": "RupeeCRM",
   "edition": "PRO",
-  "plan": "BRONZE",
+  "plan": "GOLD",
   "status": "ACTIVE",
-  "revision": 1,
-  "issuedAt": "2026-09-17T14:39:30.102Z",
-  "expiresAt": "2027-09-17T14:39:30.102Z",
+  "revision": 2,
+  "issuedAt": "2026-09-17T15:53:28.645Z",
+  "expiresAt": null,
   "dataProtectionEnabled": false,
   "dataProtectionExpiresAt": null,
   "statusReason": null,
-  "signature": "uiw0HVrMsIz0H0JGrKa7z6UnZQcBw7fRrqsX81Q1bZ5tafPWOnWVCjtwArvgEl0GcGztkBRl2YKC+5QCa34qAQ=="
+  "signature": "ed/tbY5Fp99p8j3eV8qOe+rO6v7M3fkFXqzz30OEJOARakDSw8X1XJa2kvyr1A3S7oxR6yVqNpLoW58ktLZTAA=="
 }
