@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-09-17T16:42:33.022Z",
+  "lastUpdated": "2026-09-17T16:42:45.206Z",
   "salesmen": [
     {
       "id": "SM-01",
@@ -113,6 +113,23 @@
       "dataProtectionEnabled": false,
       "saleAmount": 0,
       "commissionAmount": 0,
+      "saleDate": "2026-09-17",
+      "settlementStatus": "PENDING",
+      "settlementId": null
+    },
+    {
+      "saleId": "SALE-44448",
+      "licenseId": "LIC-44865",
+      "machineId": "RKGM-GH4X-6YX1-VVN8",
+      "customerName": "TEST",
+      "salesmanNickname": "Raju",
+      "transactionType": "UPGRADE",
+      "fromPlan": "BRONZE",
+      "plan": "GOLD",
+      "revision": 6,
+      "dataProtectionEnabled": false,
+      "saleAmount": 12000,
+      "commissionAmount": 2400,
       "saleDate": "2026-09-17",
       "settlementStatus": "PENDING",
       "settlementId": null
