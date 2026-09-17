@@ -6,11 +6,11 @@
   "edition": "PRO",
   "plan": "GOLD",
   "status": "ACTIVE",
-  "revision": 7,
+  "revision": 8,
   "issuedAt": "2026-09-17T16:42:45.206Z",
   "expiresAt": null,
-  "dataProtectionEnabled": true,
+  "dataProtectionEnabled": false,
   "dataProtectionExpiresAt": "2027-03-17T16:44:34.061Z",
   "statusReason": null,
-  "signature": "Iy4cHTJZIiMToBCnvF5Qarvelc7yMjYvD/CzpcXiInEqUr1uiQCTodM5hdgwFO1BWLC3GP3vLTCbnarjXw+OAA=="
+  "signature": "QsBi+luXCYZWNhaaiwoug7SGWRVm1Pwqc/lYKJ1pdMLjO05/F4csUjyxi28Wh2GnBQpSXH3LIGPrDP1uS9V6Bw=="
 }
