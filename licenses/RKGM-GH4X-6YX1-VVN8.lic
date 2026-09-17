@@ -4,13 +4,13 @@
   "customerName": "TEST",
   "product": "RupeeCRM",
   "edition": "PRO",
-  "plan": "SILVER",
+  "plan": "BRONZE",
   "status": "ACTIVE",
-  "revision": 1,
-  "issuedAt": "2026-09-17T16:13:23.187Z",
-  "expiresAt": "2029-09-17T16:13:23.187Z",
+  "revision": 2,
+  "issuedAt": "2026-09-17T16:23:51.754Z",
+  "expiresAt": "2027-09-17T16:23:51.754Z",
   "dataProtectionEnabled": true,
   "dataProtectionExpiresAt": "2026-12-17T16:13:23.187Z",
   "statusReason": null,
-  "signature": "mDHE0ehyyxKJdfKyw/31GTTEkqz/89IqGEy1kfv/P5FcUjKRw2qlGhJ9vUyeY7cWPA3Q1As9qNKaYkCalskEDw=="
+  "signature": "MTsgwGyJe4q6j6HK+Ps2o51wTRrLmAUeiwlkQlrjY4NdwEh1bIbndhB/M3gaHIMrebiQYiP/rOqEOAmIYdy0DQ=="
 }
