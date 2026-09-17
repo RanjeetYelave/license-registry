@@ -1,0 +1,16 @@
+{
+  "licenseId": "LIC-20535",
+  "machineId": "TEST-9999-CORS-0001",
+  "customerName": "CORS Test Customer",
+  "product": "RupeeCRM",
+  "edition": "PRO",
+  "plan": "SILVER",
+  "status": "ACTIVE",
+  "revision": 1,
+  "issuedAt": "2026-09-17T15:38:31.536Z",
+  "expiresAt": "2029-09-17T15:38:31.536Z",
+  "dataProtectionEnabled": false,
+  "dataProtectionExpiresAt": null,
+  "statusReason": null,
+  "signature": "amtYWudWnonnzAGOi1OUOjFv7B9pvCyvUBuxxJThk2jkYtBiNv+zYvGY1F5u8gYc33upuBQwa0PZjmd+JvdzDg=="
+}
