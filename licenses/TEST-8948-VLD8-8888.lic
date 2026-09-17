@@ -1,16 +1,16 @@
 {
   "licenseId": "LIC-29691",
   "machineId": "TEST-8948-VLD8-8888",
-  "customerName": "Out-of-band edit",
+  "customerName": "Auto-recovered Customer",
   "product": "RupeeCRM",
   "edition": "PRO",
   "plan": "GOLD",
   "status": "ACTIVE",
-  "revision": 25,
+  "revision": 26,
   "issuedAt": "2026-09-17T15:29:17.483Z",
   "expiresAt": "2029-09-16T15:29:17.488Z",
   "dataProtectionEnabled": true,
   "dataProtectionExpiresAt": null,
   "statusReason": null,
-  "signature": "BTXPYM+ROUA+WrJDULTxkhrBwmpY800w/K62xQ3F83DAjoOfojM1cC8J513xc8AVALyrlJUJGkFBTY2ZbJUSBQ=="
+  "signature": "OC9C3VThprh30OzBMW/vp6+olvu4MZ2krb4jdrDOsmmDut9/cXbS255rLenkUdJWDUsbxtRA9lys2pONikfOAQ=="
 }
