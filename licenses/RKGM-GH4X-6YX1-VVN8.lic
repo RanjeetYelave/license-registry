@@ -4,13 +4,13 @@
   "customerName": "TNBK",
   "product": "RupeeCRM",
   "edition": "PRO",
-  "plan": "GOLD",
+  "plan": "BRONZE",
   "status": "ACTIVE",
-  "revision": 2,
-  "issuedAt": "2026-09-17T15:53:28.645Z",
-  "expiresAt": null,
+  "revision": 3,
+  "issuedAt": "2026-09-17T15:53:59.674Z",
+  "expiresAt": "2027-09-17T15:53:59.674Z",
   "dataProtectionEnabled": false,
   "dataProtectionExpiresAt": null,
   "statusReason": null,
-  "signature": "ed/tbY5Fp99p8j3eV8qOe+rO6v7M3fkFXqzz30OEJOARakDSw8X1XJa2kvyr1A3S7oxR6yVqNpLoW58ktLZTAA=="
+  "signature": "45SIlrBQp7CUR0nfhvaaPgB5zWMLAxJtd78444r6wxMYF7cMiO4rPzKw9ju1zJymc16oaAk2zFsc6A9YumOVDw=="
 }
