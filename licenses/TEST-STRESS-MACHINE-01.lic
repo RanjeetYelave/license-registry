@@ -1,0 +1,16 @@
+{
+  "licenseId": "LIC-STRESS-0001",
+  "machineId": "TEST-STRESS-MACHINE-01",
+  "customerName": "Stress Test Enterprise",
+  "product": "RupeeCRM",
+  "edition": "Enterprise",
+  "plan": "GOLD",
+  "status": "ACTIVE",
+  "revision": 1,
+  "issuedAt": "2026-09-17T17:42:26.938Z",
+  "expiresAt": "2030-01-01T00:00:00Z",
+  "dataProtectionEnabled": true,
+  "dataProtectionExpiresAt": "2030-01-01T00:00:00Z",
+  "statusReason": "Initial creation",
+  "signature": "M2tqFL1R3MJl0NbiYob0lu0V8hos4L35AxbLeLYSrZ3ESIAtcVjg3JMquRZLOZHAGmUPp/KcyWSge1LKGPdMAQ=="
+}
