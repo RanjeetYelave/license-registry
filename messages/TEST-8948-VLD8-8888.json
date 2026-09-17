@@ -1,0 +1,12 @@
+{
+  "machineId": "TEST-8948-VLD8-8888",
+  "messages": [
+    {
+      "messageId": "MSG-1789658997152",
+      "title": "Test Stability",
+      "body": "Automated test message",
+      "createdAt": "2026-09-17T15:29:57.152Z",
+      "signature": "O6V8z0J1IC8F+O8pFnLHVNFKvz71KP3bovgHu24orE+LiRnBdw07zK+qwDI4EMJOei+aAfUbDbr9JW3SHNbFAA=="
+    }
+  ]
+}
