@@ -1,15 +1,7 @@
 {
   "version": 2,
   "lastUpdated": "2026-09-17T16:42:45.206Z",
-  "salesmen": [
-    {
-      "id": "SM-03",
-      "nickname": "Vijay",
-      "phone": "+91 99887 76655",
-      "commissionRatePercent": 15,
-      "active": true
-    }
-  ],
+  "salesmen": [],
   "sales": [
     {
       "saleId": "SALE-82491",
