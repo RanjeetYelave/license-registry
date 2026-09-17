@@ -5,12 +5,12 @@
   "product": "RupeeCRM",
   "edition": "PRO",
   "plan": "GOLD",
-  "status": "SUSPENDED",
-  "revision": 5,
+  "status": "ACTIVE",
+  "revision": 6,
   "issuedAt": "2026-09-17T15:29:17.483Z",
   "expiresAt": "2029-09-16T15:29:17.488Z",
   "dataProtectionEnabled": true,
   "dataProtectionExpiresAt": null,
   "statusReason": null,
-  "signature": "dPLHUsoaJFYWm0X9FchvmZrqNX0G6kGjv1SHWSgbrqo4tg8ZidRxURe3802qaYXiXY/Y9k1bhe3DkhuGKopRBg=="
+  "signature": "N5WVSFV2JwXsHF21O+4JRUFVRp50FmjJnT7k3e2R6qd0Cl2tLWv25NzQH5N5CIUb4C8VCWnY4hISHt5FzcfQDg=="
 }
