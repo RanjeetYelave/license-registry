@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-09-17T16:03:04.582Z",
+  "lastUpdated": "2026-09-17T16:09:01.082Z",
   "salesmen": [
     {
       "id": "SM-01",
@@ -31,67 +31,6 @@
       "active": true
     }
   ],
-  "sales": [
-    {
-      "saleId": "SALE-53491",
-      "licenseId": "LIC-11962",
-      "machineId": "RKGM-GH4X-6YX1-VVN8",
-      "customerName": "Sangam Hardware",
-      "salesmanNickname": "Kiram",
-      "plan": "BRONZE",
-      "saleAmount": 3000,
-      "commissionAmount": 1500,
-      "saleDate": "2026-09-14",
-      "settlementStatus": "PENDING",
-      "settlementId": null
-    },
-    {
-      "saleId": "SALE-97794",
-      "licenseId": "LIC-11962",
-      "machineId": "RKGM-GH4X-6YX1-VVN8",
-      "customerName": "TNBK",
-      "salesmanNickname": "Vijay",
-      "plan": "SILVER",
-      "saleAmount": 7000,
-      "commissionAmount": 1050,
-      "saleDate": "2026-09-14",
-      "settlementStatus": "PENDING",
-      "settlementId": null
-    },
-    {
-      "saleId": "SALE-65005",
-      "licenseId": "LIC-27375",
-      "machineId": "TEST-FIXA-9999-0002",
-      "customerName": "Fix Action Verification Store 2",
-      "salesmanNickname": "Raju",
-      "transactionType": "NEW_ACTIVATION",
-      "fromPlan": "GOLD",
-      "plan": "GOLD",
-      "revision": 1,
-      "dataProtectionEnabled": false,
-      "saleAmount": 15000,
-      "commissionAmount": 3000,
-      "saleDate": "2026-09-17",
-      "settlementStatus": "PENDING",
-      "settlementId": null
-    },
-    {
-      "saleId": "SALE-86545",
-      "licenseId": "LIC-78616",
-      "machineId": "RKGM-GH4X-6YX1-VVN8",
-      "customerName": "TNBK",
-      "salesmanNickname": "Vijay",
-      "transactionType": "UPGRADE",
-      "fromPlan": "BRONZE",
-      "plan": "GOLD",
-      "revision": 4,
-      "dataProtectionEnabled": false,
-      "saleAmount": 12000,
-      "commissionAmount": 1800,
-      "saleDate": "2026-09-17",
-      "settlementStatus": "PENDING",
-      "settlementId": null
-    }
-  ],
+  "sales": [],
   "settlements": []
 }
