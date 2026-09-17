@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "lastUpdated": "2026-09-17T16:09:01.082Z",
+  "lastUpdated": "2026-09-17T16:13:23.187Z",
   "salesmen": [
     {
       "id": "SM-01",
@@ -31,6 +31,24 @@
       "active": true
     }
   ],
-  "sales": [],
+  "sales": [
+    {
+      "saleId": "SALE-82491",
+      "licenseId": "LIC-44865",
+      "machineId": "RKGM-GH4X-6YX1-VVN8",
+      "customerName": "TEST",
+      "salesmanNickname": "Raju",
+      "transactionType": "NEW_ACTIVATION",
+      "fromPlan": "SILVER",
+      "plan": "SILVER",
+      "revision": 1,
+      "dataProtectionEnabled": true,
+      "saleAmount": 7450,
+      "commissionAmount": 1490,
+      "saleDate": "2026-09-17",
+      "settlementStatus": "PENDING",
+      "settlementId": null
+    }
+  ],
   "settlements": []
 }
