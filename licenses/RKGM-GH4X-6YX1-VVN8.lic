@@ -3,14 +3,14 @@
   "machineId": "RKGM-GH4X-6YX1-VVN8",
   "customerName": "TEST",
   "product": "RupeeCRM",
-  "edition": "PRO",
-  "plan": "GOLD",
+  "edition": "",
+  "plan": "SILVER",
   "status": "ACTIVE",
-  "revision": 8,
-  "issuedAt": "2026-09-17T16:42:45.206Z",
-  "expiresAt": null,
+  "revision": 9,
+  "issuedAt": "2026-09-18T03:38:35.608Z",
+  "expiresAt": "2027-09-18T03:38:35.608Z",
   "dataProtectionEnabled": false,
-  "dataProtectionExpiresAt": "2027-03-17T16:44:34.061Z",
-  "statusReason": null,
-  "signature": "QsBi+luXCYZWNhaaiwoug7SGWRVm1Pwqc/lYKJ1pdMLjO05/F4csUjyxi28Wh2GnBQpSXH3LIGPrDP1uS9V6Bw=="
+  "dataProtectionExpiresAt": null,
+  "statusReason": "Issued via Software Management Tool",
+  "signature": "X9q1H4ZkWs1bel9ES/KutNa4rrCBcu3ANGpVr/qR4jOuBELQW1nVDwdNFLhf9dhmLweKhWtGxJbdkHFw2d4jCw=="
 }
