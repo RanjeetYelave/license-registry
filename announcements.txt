@@ -2,3 +2,47 @@ RupeeCRM Update
 A new update is available with improvements to invoicing, inventory, and dashboard performance. Please restart RupeeCRM when convenient to receive the latest changes.
 
 This announcement will automatically expire after 3 days.
+
+@@@
+
+IMPLEMENT ADAPTIVE EULA HANDLING IN PLAYWRIGHT — SANDBOXED
+
+Fix the Playwright EULA issue without weakening or bypassing EULA functionality.
+
+IMPORTANT:
+- Do NOT modify production EULA/business logic.
+- Do NOT make all tests blindly accept the EULA.
+- Do NOT hide or disable the EULA modal.
+- Do NOT skip EULA tests.
+- Keep the existing EULA implementation unchanged.
+- Only modify Playwright fixtures/tests if possible.
+
+GOAL:
+
+Normal UI regression tests should automatically start in a deterministic
+"accepted EULA" state, while dedicated EULA tests must still be able to
+exercise the real first-launch EULA flow.
+
+DESIRED BEHAVIOR:
+
+Normal regression test:
+
+    Fresh BrowserContext
+          ↓
+    Check EULA state
+          ↓
+    No EULA state?
+          ↓
+    Fixture establishes accepted test state
+          ↓
+    Application loads normally
+          ↓
+    Test runs
+
+Existing EULA-specific test:
+
+    Fresh BrowserContext
+          ↓
+    Do NOT auto-accept
+          ↓
+    Application shows
