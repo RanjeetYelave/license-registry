@@ -1,1 +1,4 @@
-Wake up niggas
+RupeeCRM Update
+A new update is available with improvements to invoicing, inventory, and dashboard performance. Please restart RupeeCRM when convenient to receive the latest changes.
+
+This announcement will automatically expire after 3 days.
