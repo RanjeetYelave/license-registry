@@ -6,11 +6,11 @@
   "edition": "Professional",
   "plan": "GOLD",
   "status": "ACTIVE",
-  "revision": 12,
+  "revision": 13,
   "issuedAt": "2026-09-18T13:06:37.327Z",
-  "expiresAt": "2027-09-18T13:06:37.327Z",
+  "expiresAt": "2027-09-21T19:23:18.330Z",
   "dataProtectionEnabled": true,
   "dataProtectionExpiresAt": "2027-09-18T13:06:37.327Z",
-  "statusReason": "Issued via Software Management Tool",
-  "signature": "j8ykb+woVQAl44yP1nbCWyctnojtaXEHVXendnS++Dt6CyUOwnwDXJxq9YRqfL0T9DPMItyDlg8fjro3cLBiBw=="
+  "statusReason": "Updated via Software Management Tool (Rev 13)",
+  "signature": "PBr7RfJUG3+Esws9976pHQXHY5adfH00c/5SpFxZgvEA20pneBG7lvF6cnub7tk8Dc2uCemD1buerb6YOl0mDA=="
 }
