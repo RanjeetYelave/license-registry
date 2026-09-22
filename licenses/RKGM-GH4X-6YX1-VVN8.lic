@@ -6,11 +6,11 @@
   "edition": "Professional",
   "plan": "BRONZE",
   "status": "ACTIVE",
-  "revision": 14,
+  "revision": 15,
   "issuedAt": "2026-09-18T13:06:37.327Z",
-  "expiresAt": "2027-09-21T19:34:20.403Z",
+  "expiresAt": "2027-09-22T14:25:45.699Z",
   "dataProtectionEnabled": true,
-  "dataProtectionExpiresAt": "2027-09-18T13:06:37.327Z",
-  "statusReason": "Updated via Software Management Tool (Rev 14)",
-  "signature": "jVssuj5fPKOdcWccTjypern0NqR9Xma7jkK6tVZow1sA9Hg7XyrnpB9p68dalr9ZZH+DpgEo9foMtSHeIf6dCA=="
+  "dataProtectionExpiresAt": "2027-09-30T23:59:59Z",
+  "statusReason": "Updated via Software Management Tool (Rev 15)",
+  "signature": "Dwdpti0ufSEFymeoX8PWK32rKM99LO+v2EUTTKuJ7bdNb2jMW6aaDaJQgJB3A5C1wsUgdVRKAvxc+U0+iznfCA=="
 }
