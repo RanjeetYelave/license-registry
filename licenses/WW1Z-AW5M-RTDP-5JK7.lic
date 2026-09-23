@@ -1,0 +1,16 @@
+{
+  "licenseId": "LIC-ZCCB-WMP6-MFC8",
+  "machineId": "WW1Z-AW5M-RTDP-5JK7",
+  "customerName": "SANGAM HARDWARE",
+  "product": "RupeeCRM",
+  "edition": "Professional",
+  "plan": "SILVER",
+  "status": "ACTIVE",
+  "revision": 1,
+  "issuedAt": "2026-09-23T10:04:00.005Z",
+  "expiresAt": "2027-09-23T10:04:00.005Z",
+  "dataProtectionEnabled": true,
+  "dataProtectionExpiresAt": "2027-09-23T10:04:00.005Z",
+  "statusReason": "Issued via Software Management Tool",
+  "signature": "LUb8SBgMfiDc9TE3hUx/0YQne5dtsv1vtSSDt/Y4U2+zmdyZ17fVWEghza0FAGbWo74FKFC3ucsQS0Vunos2BQ=="
+}
