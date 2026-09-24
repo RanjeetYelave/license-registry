@@ -1,0 +1,166 @@
+{
+  "snapshotVersion" : "1.0",
+  "exportedAt" : "2026-09-24T13:23:28.279521",
+  "exportedByMachineId" : "MGMT-FFB51123",
+  "customers" : [ {
+    "id" : 1,
+    "customerCode" : "CUST-1001",
+    "name" : "TESTMACHINE",
+    "companyName" : "TESTMACHINE",
+    "phone" : "8830456789",
+    "email" : null,
+    "billingAddress" : null,
+    "createdAt" : "2026-09-24T00:17:02.500483"
+  } ],
+  "sales" : [ {
+    "id" : 1,
+    "saleCode" : "SALE-10001",
+    "customerId" : 1,
+    "salesmanId" : null,
+    "saleDate" : "2026-09-24",
+    "agreedPrice" : 2000.00,
+    "paymentMode" : "INSTALLMENT",
+    "saleStatus" : "COMPLETED"
+  } ],
+  "licenses" : [ {
+    "id" : 1,
+    "customerId" : 1,
+    "saleId" : 1,
+    "machineId" : "RKGM-GH4X-6YX1-VVN8",
+    "tier" : "SILVER",
+    "status" : "ACTIVE",
+    "currentRevision" : 2,
+    "dpActive" : true
+  } ],
+  "payments" : [ {
+    "id" : 1,
+    "receiptNumber" : "RCP-10001",
+    "saleId" : 1,
+    "amount" : 333.33,
+    "paymentMethod" : "UPI",
+    "transactionReference" : "",
+    "purpose" : "EMI_INSTALLMENT"
+  }, {
+    "id" : 33,
+    "receiptNumber" : "RCP-10002",
+    "saleId" : 1,
+    "amount" : 333.33,
+    "paymentMethod" : "UPI",
+    "transactionReference" : "TEST-PROPAGATION-2",
+    "purpose" : "EMI_INSTALLMENT"
+  } ],
+  "emiSchedules" : [ {
+    "id" : 1,
+    "saleId" : 1,
+    "interestType" : "NO_COST",
+    "agreedPrice" : 2000.00,
+    "financedAmount" : 2000.00,
+    "totalPayable" : 2000.00,
+    "tenureMonths" : 6,
+    "firstDueDate" : "2026-10-24",
+    "status" : "ACTIVE"
+  } ],
+  "emiInstallments" : [ {
+    "id" : 1,
+    "scheduleId" : 1,
+    "sequenceNumber" : 1,
+    "dueDate" : "2026-10-24",
+    "graceDeadline" : "2026-10-31",
+    "installmentAmount" : 333.33,
+    "paidAmount" : 333.33,
+    "status" : "PAID",
+    "paidDate" : "2026-09-24T13:17:31.764620"
+  }, {
+    "id" : 2,
+    "scheduleId" : 1,
+    "sequenceNumber" : 2,
+    "dueDate" : "2026-11-24",
+    "graceDeadline" : "2026-12-01",
+    "installmentAmount" : 333.33,
+    "paidAmount" : 333.33,
+    "status" : "PAID",
+    "paidDate" : "2026-09-24T13:17:31.769819"
+  }, {
+    "id" : 3,
+    "scheduleId" : 1,
+    "sequenceNumber" : 3,
+    "dueDate" : "2026-12-24",
+    "graceDeadline" : "2026-12-31",
+    "installmentAmount" : 333.33,
+    "paidAmount" : 0.00,
+    "status" : "UPCOMING",
+    "paidDate" : null
+  }, {
+    "id" : 4,
+    "scheduleId" : 1,
+    "sequenceNumber" : 4,
+    "dueDate" : "2027-01-24",
+    "graceDeadline" : "2027-01-31",
+    "installmentAmount" : 333.33,
+    "paidAmount" : 0.00,
+    "status" : "UPCOMING",
+    "paidDate" : null
+  }, {
+    "id" : 5,
+    "scheduleId" : 1,
+    "sequenceNumber" : 5,
+    "dueDate" : "2027-02-24",
+    "graceDeadline" : "2027-03-03",
+    "installmentAmount" : 333.33,
+    "paidAmount" : 0.00,
+    "status" : "UPCOMING",
+    "paidDate" : null
+  }, {
+    "id" : 6,
+    "scheduleId" : 1,
+    "sequenceNumber" : 6,
+    "dueDate" : "2027-03-24",
+    "graceDeadline" : "2027-03-31",
+    "installmentAmount" : 333.35,
+    "paidAmount" : 0.00,
+    "status" : "UPCOMING",
+    "paidDate" : null
+  } ],
+  "salesmen" : [ ],
+  "settings" : [ {
+    "key" : "plan_prices",
+    "value" : "{\"BRONZE\":{\"1Y\":4999,\"2Y\":8999,\"3Y\":11999,\"LIFETIME\":19999},\"SILVER\":{\"1Y\":7999,\"2Y\":13999,\"3Y\":18999,\"LIFETIME\":29999},\"GOLD\":{\"1Y\":11999,\"2Y\":20999,\"3Y\":27999,\"LIFETIME\":44999}}",
+    "category" : "PRICING"
+  }, {
+    "key" : "dp_prices",
+    "value" : "{\"3M\":799,\"6M\":1499,\"1Y\":2499,\"2Y\":4499,\"3Y\":5999,\"LIFETIME\":9999}",
+    "category" : "PRICING"
+  }, {
+    "key" : "lic_repo",
+    "value" : "RanjeetYelave/license-registry",
+    "category" : "SYSTEM"
+  }, {
+    "key" : "announcements_repo",
+    "value" : "RanjeetYelave/announcements",
+    "category" : "SYSTEM"
+  }, {
+    "key" : "dp_repo",
+    "value" : "crucified1215/rupeecrm-dataprotection-vault",
+    "category" : "SYSTEM"
+  }, {
+    "key" : "master_public_key",
+    "value" : "MCowBQYDK2VwAyEAdmc4i0VRQ4Whs4OqCfxuOWSiiLQiiyp8VlTRhBTGRZo=",
+    "category" : "CRYPTO"
+  }, {
+    "key" : "lic_branch",
+    "value" : "preprod",
+    "category" : "SYSTEM"
+  }, {
+    "key" : "announcements_branch",
+    "value" : "preprod",
+    "category" : "SYSTEM"
+  }, {
+    "key" : "dp_branch",
+    "value" : "preprod",
+    "category" : "SYSTEM"
+  }, {
+    "key" : "mgmt_environment",
+    "value" : "PREPROD",
+    "category" : "SYSTEM"
+  } ]
+}
