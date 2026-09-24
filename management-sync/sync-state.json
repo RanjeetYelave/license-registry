@@ -1,10 +1,10 @@
 {
   "snapshotFile" : "management-sync/latest-db.sql.gz",
-  "snapshotSha256" : "52f6a198a03604c5f74522d1334bf674ffcaba3aa0f321131f005ec7b8bc0fe1",
-  "gitCommitSha" : "ea4f463f3ec1c44889cea5b823c90d703ffd0bcf",
-  "gitBlobSha" : "f07e517a32b42bdb6c4b550a646df38a348a6ef7",
+  "snapshotSha256" : "936ad2b9a803bf4d2f5bc6c6fe7c0e643e40356c67a96bf11adcc2aefa8e7d4e",
+  "gitCommitSha" : "264e45077c0d2b69674c785f7d7bb7b8b0787904",
+  "gitBlobSha" : "c8fa5b5ad9d326bd96168799a25dfe83941a6f48",
   "syncedByMachineId" : "MGMT-FFB51123",
-  "syncedAt" : "2026-09-24T16:09:54.089086Z",
+  "syncedAt" : "2026-09-24T16:20:51.496606Z",
   "appVersion" : "1.0.0",
   "flywaySchemaVersion" : "3",
   "entityCounts" : {
