@@ -1,10 +1,7 @@
 {
-  "status" : "LOCKED",
-  "holderMachineId" : "MGMT-FFB51123",
-  "holderHostname" : "MGMT-FFB51123",
-  "lockId" : "ae7480b5-fc25-4bb7-83b6-fa4de8d7caf2",
-  "acquiredAt" : "2026-09-24T15:03:24.457241Z",
-  "leaseExpiresAt" : "2026-09-24T16:03:24.457241Z",
+  "status" : "AVAILABLE",
+  "lastHolderMachineId" : "MGMT-FFB51123",
+  "releasedAt" : "2026-09-24T15:30:37.567270Z",
   "appVersion" : "1.0.0",
   "schemaVersion" : "3"
 }
