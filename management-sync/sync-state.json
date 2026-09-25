@@ -1,17 +1,17 @@
 {
   "snapshotFile" : "management-sync/latest-db.sql.gz",
-  "snapshotSha256" : "7b152cdd339ed3d9104bd2664b990b8c563147e6dc0351e72667d9bab4d931d6",
-  "gitCommitSha" : "d57812137a96de729d63621b431e3847a7b33999",
-  "gitBlobSha" : "ff37b04b1ccffca3381b234f1cd70ce90f4e5146",
+  "snapshotSha256" : "aa74da9ce7d6360ec663b3e7bb566894e6525ae8cd0a7077f7726968fd94850f",
+  "gitCommitSha" : "3df87b40d451a43e94c3d9a151cf4212f6302c3e",
+  "gitBlobSha" : "fff8535769fbf279e6de21d206736f0441186431",
   "syncedByMachineId" : "MGMT-FFB51123",
-  "syncedAt" : "2026-09-24T19:27:34.740926Z",
+  "syncedAt" : "2026-09-25T04:44:44.858813Z",
   "appVersion" : "1.0.0",
   "flywaySchemaVersion" : "3",
   "entityCounts" : {
-    "customers" : 3,
-    "sales" : 2,
-    "licenses" : 2,
-    "payments" : 4,
-    "emiSchedules" : 2
+    "customers" : 0,
+    "sales" : 0,
+    "licenses" : 0,
+    "payments" : 0,
+    "emiSchedules" : 0
   }
 }
